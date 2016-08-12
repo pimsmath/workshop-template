@@ -28,6 +28,8 @@ $$ \widehat{f}(\xi) = \int f(x) e^{2 \pi i x \cdot \xi} dx.$$
 * [Name2](http://pims.math.ca)
 
 
+
+
 ## Scheduled Activities
 
 <div class="mermaid">

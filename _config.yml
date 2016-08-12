@@ -2,11 +2,13 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "page:num"
 
 # Setup
 title:               PIMS Workshop
-tagline:             'Discovery of Mathematical Sciences'
+tagline:             'Mathematical Sciences Discovery'
 description:         'A web space supporting collaboration and chronicling activities for a workshop supported by PIMS.'
 url:                 http://pims.math.ca
 baseurl:             ''
@@ -20,3 +22,4 @@ author:
 
 # Custom vars
 version:             1.0.0
+
