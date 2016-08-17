@@ -41,3 +41,15 @@ gantt
         Epic2       :epic2, 2015-11-23, 2d
   
 </div>
+
+<div class="mermaid">
+gantt
+        dateFormat  YYYY-MM-DD
+        title 2016-Q3
+
+        section EPIC1 
+        Start   : admin1, 2016-07-01, 1d
+        Middle  :active, done, admin1, 2016-07-01, 90d
+        End     :crit, admin2, 2016-09-30, 1d
+  
+</div>

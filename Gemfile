@@ -9,3 +9,4 @@ gem 'jekyll-scholar', :path => "/Users/colliand/.rvm/gems/ruby-2.0.0-p353/gems/j
 # gem 'jekyll-scholar-extras'
 
 
+
